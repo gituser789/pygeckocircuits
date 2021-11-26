@@ -14,6 +14,8 @@ The example consists of a Python script and a simulation file (.ipes). There is 
 Note that this project contains a reduced set of the GeckoCIRCUITS simulator/source. The full code can be found at https://sourceforge.net/projects/geckocircuits/
 The GeckoCIRCUITS found in this project was recompiled from the (open) source, and the resulting .jar is given in this project.
 
+Note: to run the example code, pip-package pyjnius is needed, not jnius.
+
 This project is under the same license conditions as GeckoCIRCUITS: GPLv3.
 
 Run PyGeckoExample.py with Python3 to execute the example.
